@@ -3,11 +3,11 @@
 
 Overview
 ============
-This project creates a Terminal-based version of John Conway's famous [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). This is the code for 'Build a Simulation in 5 Min' on [Youtube]()
+This project creates a Terminal-based version of John Conway's famous [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
 Dependencies
 ============
-Everything comes with Python natively!
+Everything comes with Python natively.
 
 Use [pip](https://pypi.python.org/pypi/pip) to install any missing dependencies
 
