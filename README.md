@@ -3,7 +3,7 @@
 
 Overview
 ============
-This project creates a Terminal-based version of John Conway's famous [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+This project creates a Terminal-based version of John Conway's famous [Game of Life (https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
 Dependencies
 ============
@@ -11,9 +11,10 @@ Everything comes with Python natively.
 
 Use [pip](https://pypi.python.org/pypi/pip) to install any missing dependencies
 
+
 Basic Usage
 ===========
-Run life.py, that's it! 
+Run life.py through cmd and code in the matrices to get the simulation started.
 
 
 Credits
